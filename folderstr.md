@@ -1,0 +1,39 @@
+
+```
+└── 📁myportfolio
+    └── 📁public
+        └── file.svg
+        └── globe.svg
+        └── next.svg
+        └── vercel.svg
+        └── window.svg
+    └── 📁src
+        └── 📁app
+            └── favicon.ico
+            └── globals.css
+            └── layout.tsx
+            └── loading.tsx
+            └── page.tsx
+        └── 📁components
+            └── About.tsx
+            └── Footer.tsx
+            └── Home.tsx
+            └── Loader.tsx
+            └── Navbar.tsx
+            └── Projects.tsx
+            └── Skills.tsx
+        └── 📁lib
+            └── data.ts
+        └── 📁styles
+    └── .gitignore
+    └── eslint.config.mjs
+    └── folderstr.md
+    └── next-env.d.ts
+    └── next.config.ts
+    └── package-lock.json
+    └── package.json
+    └── postcss.config.mjs
+    └── README.md
+    └── tailwind.config.ts
+    └── tsconfig.json
+```
